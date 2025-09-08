@@ -1,7 +1,6 @@
 # Collab-Board
 
 A collaborative board application built with [Next.js](https://nextjs.org).  
-This project was bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ---
 
@@ -27,3 +26,4 @@ yarn dev
 pnpm dev
 # or
 bun dev
+
